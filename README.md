@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nik-Zac
+- 👀 I’m interested in il coding  di applicazioni utili per il mantenimento di aziende o piccoli giochi
+- 🌱 I’m currently learning  ad utilizzare Phyton
